@@ -4,5 +4,5 @@
 def key_for_min_value(name_hash)
 temp={}
 puts name_hash
-return nil
+nil
 end
