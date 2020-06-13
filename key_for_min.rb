@@ -6,6 +6,7 @@ v=0
 k=nil
 name_hash.each do |key,value|
   if v<value
+    p v
     v=value
     k=key
   end
