@@ -3,6 +3,7 @@
 
 def key_for_min_value(name_hash)
 temp={}
+v=""
 name_hash.each do |key,value|
   puts (v<value)
 end
