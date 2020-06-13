@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
 temp={}
 name_hash.each do |key,value|
-  puts key
+  puts v<value
 end
 nil
 end
